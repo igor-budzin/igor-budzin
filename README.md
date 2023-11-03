@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Igor Budzinsky profile views](https://u8views.com/api/v1/github/profiles/19514890/views/day-week-month-total-count.svg)](https://u8views.com/github/igor-budzin)
 <!--
 **igor-budzin/igor-budzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
